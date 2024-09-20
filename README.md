@@ -10,3 +10,5 @@ Data for this project is prepared using Microsoft Excel. Spreadsheets facilitate
 
 Data Visualization:
 Tableau serves as the primary tool for data visualization in this project. Its interactive dashboards and charts empower us to present insights in a clear, compelling, and easily digestible manner.
+
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/b0be6eed-c978-4599-ab11-57aa5419a992">
